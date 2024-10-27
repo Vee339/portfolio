@@ -1,13 +1,13 @@
 # My academic achievements
 
-## Web Development (Sep 2024 - Aug 2025)
+### Web Development (Sep 2024 - Aug 2025)
 
-Humber Polytechnic, Toronto, CA
+_Humber Polytechnic, Toronto, CA_
 
-## Project Management (Sep 2023 - April 2024)
+### Project Management (Sep 2023 - April 2024)
 
-Sheridan College, Mississauga, CA
+_Sheridan College, Mississauga, CA_
 
-## Bachelor of Science (July 2019 - July 2022)
+### Bachelor of Science (July 2019 - July 2022)
 
-Government College for Girls, Ludhiana, IN
+_Government College for Girls, Ludhiana, IN_
