@@ -1,5 +1,5 @@
-Hi 👋
+# Veerpal Kaur's portfolio
 
-This is my portfolio which is completely built in Markdown.
+Hi👋 
 
-It includes my **projects, work experience, formal education, and social media** links.
+My name is Veerpal Kaur and I am an aspiring web developer. This repo contains my portfolio which is completely built in Markdown. It includes my **projects, work experience, formal education, and social media** links.
