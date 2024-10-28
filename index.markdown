@@ -19,3 +19,9 @@ I am a Web Development student at Humber Polytechnic, Toronto. I am passionate f
 - 🔭Currently working on several projects in front-end and backend.
 - 🌿Learning advanced techniques in Web Development industry such as accessibility and product management.
 - 💼Open to freelancing opportunities.
+
+### Some interesting or strange facts about me
+
+- I love badminton and chess.
+- Although I am a morning person, I wake up in the noon most of the time.
+- You will never know me completely.
