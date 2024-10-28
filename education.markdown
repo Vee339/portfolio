@@ -1,5 +1,7 @@
 # My academic achievements
 
+[Home](./index.markdown) | [Projects](./projects.markdown) | [Education](./education.markdown) | [Work Experience](./experience.markdown) | [Get in Touch](./contact.markdown)
+
 ### Web Development (Sep 2024 - Aug 2025)
 
 _Humber Polytechnic, Toronto, CA_
